@@ -57,3 +57,4 @@ Memoria mínima=19M×2 bytes≈ 38MB
 ---
 
 ![evidencia.jpg](image.png)
+    
