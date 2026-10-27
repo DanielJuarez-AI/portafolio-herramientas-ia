@@ -10,10 +10,10 @@
 
 |Nombre completo|Matrícula|
 |---|---|
-|[Daniel Raymundo Juárez Domínguez]|[198744-6]|
-|[Erik Raúl Aguirre Moreno]|[198322-6 ]|
-|[Raúl Karim Chessani Carbajal]|[198543-1]|
-|[Cristopher Cortés Reynoso]|[198111-6]|
+|[Daniel Raymundo Juárez Domínguez]|[]|
+|[Erik Raúl Aguirre Moreno]|[]|
+|[Raúl Karim Chessani Carbajal]|[]|
+|[Cristopher Cortés Reynoso]|[]|
 
 ## 1. Caso de uso
 
