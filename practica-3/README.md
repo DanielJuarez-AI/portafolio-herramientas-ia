@@ -34,6 +34,9 @@ flowchart LR
 ```
 
 ## 2. Modelo abierto elegido
+![Captura de la Model Card](modelcard1.png)
+![](modelcard2.png)
+![](modelcard3.png)
 
 | Dato | Respuesta |
 | --- | --- |
@@ -60,4 +63,4 @@ $$
 
 ## 5. Evidencia
 
-![Captura de la Model Card](image.png)
+![Captura de la implementacion el `Google colab`](Evidencia.png)
