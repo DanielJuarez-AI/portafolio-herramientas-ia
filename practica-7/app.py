@@ -15,6 +15,8 @@ demo = gr.Interface(
     fn=clasificar,
     inputs=gr.Image(type="pil"),
     outputs=gr.Label(num_top_classes=3),
+    title="¿Qué hay en la foto?",
+    description="MobileNetV2 (14 MB) corriendo en mi computadora. Conoce 1,000 categorías de ImageNet, con nombres en inglés.",
 )
 
 if __name__ == "__main__":
